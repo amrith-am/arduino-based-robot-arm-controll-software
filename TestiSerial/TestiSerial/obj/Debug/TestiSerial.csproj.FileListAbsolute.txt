@@ -1,0 +1,18 @@
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\bin\Debug\TestiSerial.exe
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\bin\Debug\TestiSerial.pdb
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\obj\Debug\TestiSerial.csprojResolveAssemblyReference.cache
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\obj\Debug\TestiSerial.Form1.resources
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\obj\Debug\TestiSerial.Properties.Resources.resources
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\obj\Debug\TestiSerial.csproj.GenerateResource.Cache
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\obj\Debug\TestiSerial.csproj.CoreCompileInputs.cache
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\obj\Debug\TestiSerial.exe
+C:\Users\Tuukka\source\repos\TestiSerial\TestiSerial\obj\Debug\TestiSerial.pdb
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\bin\Debug\TestiSerial.exe
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\bin\Debug\TestiSerial.pdb
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\obj\Debug\TestiSerial.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\obj\Debug\TestiSerial.Properties.Resources.resources
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\obj\Debug\TestiSerial.Form1.resources
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\obj\Debug\TestiSerial.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\obj\Debug\TestiSerial.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\obj\Debug\TestiSerial.exe
+C:\Users\USER\Downloads\Compressed\Robot software files_2\Robot software files\TestiSerial\TestiSerial\obj\Debug\TestiSerial.pdb
